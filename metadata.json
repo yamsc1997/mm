@@ -1,0 +1,6 @@
+{
+  "name": "PC-Elite: Venta y Alquiler",
+  "description": "Una landing page interactiva y moderna para la venta y alquiler de ordenadores de alto rendimiento, portátiles y estaciones de trabajo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
